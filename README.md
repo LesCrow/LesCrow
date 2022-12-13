@@ -4,7 +4,7 @@
 **LesCrow/LesCrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-> * I'm a passionate **React.js** / **Node.js** developer
+> * <span>U+1F9D1 U+200D U+1F4BB</span> I'm a passionate **React.js** / **Node.js** developer
 > * I’m  learning **Next.js** and **TypeScript**
 > * I am currently looking for a company for a one-year work-study contract from March 2022 to March 2023
 > * Feel free to look at my work
