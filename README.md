@@ -9,11 +9,10 @@
 > * I am currently looking for a company for a one-year work-study contract from March 2022 to March 2023
 > * Feel free to look at my work
 
-[![GitHub stats]
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesCrow&theme=transparent"> 
 </a>
-[![Top Langs]()]()
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LesCrow&layout=compact"/>
 </a>
