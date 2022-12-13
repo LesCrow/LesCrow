@@ -5,7 +5,7 @@
 -->
 <dl>
   <dd> 
-    * 💻 I'm a passionate **React.js** / **Node.js** developer 
+     💻 I'm a passionate **React.js** / **Node.js** developer 
   </dd>
   <dd> 
     * 📖 I’m  learning **Next.js** and **TypeScript** 
