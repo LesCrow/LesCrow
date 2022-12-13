@@ -10,11 +10,10 @@
 > * Feel free to look at my work
 
 
-
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesCrow&theme=transparent"> 
-
   <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LesCrow&layout=compact">
-
+</p>
 
 <!-- Here are some ideas to get you started:
 
