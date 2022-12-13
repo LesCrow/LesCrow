@@ -1,4 +1,4 @@
-### Hi everyone, I'm John.
+<img src="header.png">
 
 <!--
 **LesCrow/LesCrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
