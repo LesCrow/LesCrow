@@ -9,9 +9,14 @@
 > * I am currently looking for a company for a one-year work-study contract from March 2022 to March 2023
 > * Feel free to look at my work
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesCrow&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LesCrow)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats]
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesCrow&theme=transparent"> 
+</a>
+[![Top Langs]()]()
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LesCrow&layout=compact"/>
+</a>
 
 <!-- Here are some ideas to get you started:
 
