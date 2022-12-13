@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesCrow&theme=transparent"> 
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LesCrow&layout=compact"/>
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LesCrow&layout=compact">
 </a>
 
 <!-- Here are some ideas to get you started:
