@@ -1,27 +1,58 @@
-<img src="header.png">
-
 <!--
 **LesCrow/LesCrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<dl>
-  <dd> 
-    * 💻 I'm a passionate **React.js** / **Node.js** developer 
-  </dd>
-  <dd> 
-    * 📖 I’m  learning **Next.js** and **TypeScript** 
-  </dd>
-  <dd> 
-    * 🔭 I am currently looking for a company for a one-year work-study contract 
+
+
+<div>
+<img src="header.png">
+
+ <h2>:man_technologist: About Me</h2>
+<ul>
+  <li> 
+    💻 I'm a passionate <strong>React.js</strong> / <strong>Node.js</strong> developer 
+  </li>
+  <li> 
+    📖 I’m  learning <strong>Next.js</strong> and <strong>TypeScript</strong>
+  </li>
+  <li> 
+    🔭 I'm currently looking for a company for a one-year work-study contract 
     from March 2022 to March 2023   
-  </dd>
-  <dd> 
-    * 🔥 Feel free to look at my work 
-  </dd>
-</dl>
+  </li>
+  <li> 
+    🔥 Feel free to look at my work 
+  </li>
+</ul>
+  
+<hr>
+  
+  <h2>🛠️ Languages and Tools</h2>
+ 
+  <p align="center">FrontEnd</p>
+  <div align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80" background-color="white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next" alt="Next" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
+  
 
-
-<p align="center">
-  <img align="center" margin-bottm="10px" src="https://github-readme-stats.vercel.app/api?username=LesCrow&theme=transparent"> 
+  <p align="center">BackEnd</p>
+  <div align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" title="Next" alt="Next" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
+  
+   <p align="center">Databases</p>
+  <div align="center">
+    <a href="https://fr.reactjs.org/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="80" height="80"/></a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Node" alt="MySql" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
+  
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesCrow&theme=transparent" > 
+</br></br>
   <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LesCrow&layout=compact&theme=transparent">
-</p>
-
+</div>
+</div>
