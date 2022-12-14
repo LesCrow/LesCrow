@@ -55,6 +55,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Node" alt="MySql" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
   
+  <h2>:bar_chart: Stats</h2>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesCrow&theme=transparent" > 
 </br></br>
