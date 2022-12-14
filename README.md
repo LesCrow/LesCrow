@@ -27,7 +27,7 @@
   <h2>🛠️ Languages and Tools</h2>
   </br>
  
-  <p align="center">FrontEnd</p>
+  <p align="center"><strong>FrontEnd</strong></p>
 
   <div align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80" background-color="white"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,7 +37,7 @@
    </br>
   
 
-  <p align="center">BackEnd</p>
+  <p align="center"><strong>BackEnd</strong></p>
   
   <div align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,7 +47,7 @@
      </br>
           </br>
   
-   <p align="center">Databases</p>
+   <p align="center"><strong><u>Databases</u></strong></p>
   <div align="center">
     <a href="https://fr.reactjs.org/">
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="80" height="80"/></a>
