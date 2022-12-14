@@ -26,53 +26,39 @@
 <hr>
   
   <h2>🛠️ Languages and Tools</h2>
+  </br>
  
- <div align="center">
-   <p><strong>Languages</strong></p>
- <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="80" /></a> &nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="80" /></a>  &nbsp;&nbsp;
- </div>
-</br> 
- </br>
- 
- <div align="center">
-  <p><strong>FrontEnd</strong></p>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" /></a> &nbsp;&nbsp;
-  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="80" /></a>   &nbsp;&nbsp;
-  <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="80" /></a>  
- </div>
- </br> 
- </br>
- 
- <div align="center">
-  <p><strong>BackEnd</strong></p>
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="80" /></a>  &nbsp;&nbsp;
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="Express.js" height="80" /></a> &nbsp;&nbsp;
-    <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="80" /></a>   &nbsp;&nbsp;
- </div>
- </br> 
- </br>
- 
- <div align="center">
-   <p><strong>Databases</strong></p>
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" /></a>  &nbsp;&nbsp;
- <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="80" /></a>  &nbsp;&nbsp;
- </div>
-<hr>
+  <p align="center">FrontEnd</p>
 
- <h2>:bar_chart: Stats</h2>
- 
+  <div align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80" background-color="white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" title="Next" alt="Next" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
+   </br>
+  
+
+  <p align="center">BackEnd</p>
+  
+  <div align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" title="Express" alt="Express" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" title="Next" alt="Next" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
+     </br>
+          </br>
+  
+   <p align="center">Databases</p>
+  <div align="center">
+    <a href="https://fr.reactjs.org/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="80" height="80"/></a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Node" alt="MySql" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
+  
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesCrow&theme=transparent" > 
 </br></br>
   <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LesCrow&layout=compact&theme=transparent">
 </div>
-
-<h2>:speech_balloon: How to reach me</h2>
-<div align="center">
-<a href="mailto:john.baruteau@gmail.com" style="margin-bottom: 5px">:envelope: john.baruteau@gmail.com</a>
- </div>
- </br>
-  <div align="center">
-<a href="https://www.linkedin.com/in/john-baruteau/"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/></a>
- </div>
+</div>
