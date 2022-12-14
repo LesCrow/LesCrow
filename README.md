@@ -67,4 +67,12 @@
 </br></br>
   <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LesCrow&layout=compact&theme=transparent">
 </div>
-</div>
+
+<h2>:speech_balloon: How to reach me</h2>
+<div align="center">
+<a href="mailto:john.baruteau@gmail.com" style="margin-bottom: 5px">:envelope: john.baruteau@gmail.com</a>
+ </div>
+ </br>
+  <div align="center">
+<a href="https://www.linkedin.com/in/john-baruteau/"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/></a>
+ </div>
